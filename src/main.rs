@@ -6,8 +6,6 @@ fn main() {
     looping_numbers();
     moved_values();
     my_new_function();
-
-    
 }
 
 // Function to get the first word of a sentence
@@ -72,4 +70,6 @@ fn tranfer_ownership(some_string: String){
 
 
 //you can return ownership from a function by returning the value
+
+
 
