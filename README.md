@@ -8,7 +8,7 @@ Welcome to my journey of learning Rust! This repository contains a series of blo
 
    - Explore the reasons behind choosing Rust over other popular languages like Node.js or Python.
 
-2. Setting up Rust locally (Coming soon)
+2. [Setting up Rust locally](https://amaan8429.hashnode.dev/setting-up-rust-locally-rust-series-part-2)
 
    - Step-by-step guide on how to install and set up the Rust development environment on your local machine.
 
